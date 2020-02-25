@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "job": {
+      "home": {
+        "title": "Jobs",
+        "createLabel": "Buat Job baru",
+        "createOrEditLabel": "Buat atau edit Job",
+        "notFound": "No Jobs found"
+      },
+      "created": "Job dengan id {{ param }} telah dibuat",
+      "updated": "Job dengan id {{ param }} telah diperbaharui",
+      "deleted": "Job dengan id {{ param }} telah dihapus",
+      "delete": {
+        "question": "Apakah anda yakin ingin menghapus Job {{ id }}?"
+      },
+      "detail": {
+        "title": "Job"
+      },
+      "jobTitle": "Job Title",
+      "minSalary": "Min Salary",
+      "maxSalary": "Max Salary",
+      "task": "Task",
+      "employee": "Employee"
+    }
+  }
+}
